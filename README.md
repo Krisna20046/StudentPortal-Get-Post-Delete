@@ -1,6 +1,5 @@
-# Assignment Backend Lanjutan 1
-
-## Student Portal 3
+# Student Portal
+## Get, Post, Delete
 
 ### Description
 
